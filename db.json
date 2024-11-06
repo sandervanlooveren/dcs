@@ -1,0 +1,41 @@
+{
+    "containers": [
+      {
+        "id": 1,
+        "arrival": "Spain",
+        "contents": "bananas",
+        "departure": "Russia",
+        "mass": 6969,
+        "timeArrival": "2024-11-07T00:00:00+01:00",
+        "timeDeparture": "2024-11-08T00:00:00+01:00"
+      },
+      {
+        "id": 2,
+        "arrival": "France",
+        "contents": "apples",
+        "departure": "Germany",
+        "mass": 5120,
+        "timeArrival": "2024-11-09T14:30:00+01:00",
+        "timeDeparture": "2024-11-10T14:30:00+01:00"
+      },
+      {
+        "id": 3,
+        "arrival": "Italy",
+        "contents": "oranges",
+        "departure": "Portugal",
+        "mass": 3000,
+        "timeArrival": "2024-11-11T09:15:00+01:00",
+        "timeDeparture": "2024-11-12T09:15:00+01:00"
+      },
+      {
+        "id": 4,
+        "arrival": "Netherlands",
+        "contents": "grapes",
+        "departure": "Belgium",
+        "mass": 4250,
+        "timeArrival": "2024-11-13T18:00:00+01:00",
+        "timeDeparture": "2024-11-14T18:00:00+01:00"
+      }
+    ]
+  }
+  
